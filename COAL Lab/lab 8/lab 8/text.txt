@@ -1,0 +1,11 @@
+l4:	mov ebx,[esi]
+		cmp bl,big1
+		ja secoundlarge
+		jmp l5
+		secoundlarge:	mov big1,bl				
+				l5: cmp bl,tiny1
+					jb secoundsamller
+					jmp l3
+					secoundsamller: mov tiny1,bl
+					l3:	inc esi
+						loop l4
