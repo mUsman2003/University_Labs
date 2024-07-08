@@ -1,0 +1,16 @@
+D:\BS(CS)\4th Semester\DB\LoginForm\bin\Debug\net6.0-windows\LoginForm.exe
+D:\BS(CS)\4th Semester\DB\LoginForm\bin\Debug\net6.0-windows\LoginForm.deps.json
+D:\BS(CS)\4th Semester\DB\LoginForm\bin\Debug\net6.0-windows\LoginForm.runtimeconfig.json
+D:\BS(CS)\4th Semester\DB\LoginForm\bin\Debug\net6.0-windows\LoginForm.dll
+D:\BS(CS)\4th Semester\DB\LoginForm\bin\Debug\net6.0-windows\LoginForm.pdb
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.Form1.resources
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.GenerateResource.cache
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfoInputs.cache
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfo.cs
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.dll
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\refint\LoginForm.dll
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.pdb
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\LoginForm.genruntimeconfig.cache
+D:\BS(CS)\4th Semester\DB\LoginForm\obj\Debug\net6.0-windows\ref\LoginForm.dll
