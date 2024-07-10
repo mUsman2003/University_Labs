@@ -1,0 +1,93 @@
+﻿  test.cpp
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(20,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(20,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(20,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(26,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(26,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(26,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(27,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(112,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(112,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(114,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(126,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(126,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(126,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(126,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(128,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(133,84): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(143,84): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(262,12): warning C4244: 'return': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(245,11): message : while compiling class template member function 'T ArrayBasics<T>::findFirstInSortedArray(T *,T,int)'
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(128,16): message : see the first reference to 'ArrayBasics<float>::findFirstInSortedArray' in 'Array_Test1l_Test::TestBody'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(21,47): message : see reference to class template instantiation 'ArrayBasics<float>' being compiled
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(221,12): warning C4244: 'return': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(217,11): message : while compiling class template member function 'T ArrayBasics<T>::findInArray(T *,T,int)'
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(114,16): message : see the first reference to 'ArrayBasics<float>::findInArray' in 'Array_Test1j_Test::TestBody'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(151,16): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(143,11): message : while compiling class template member function 'T ArrayBasics<T>::findMaxPos(T *,int,int)'
+          with
+          [
+              T=float
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(27,16): message : see the first reference to 'ArrayBasics<float>::findMaxPos' in 'Array_Test1b_Test::TestBody'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\source.h(368,28): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\Assignmnet1\test.cpp(195,18): message : see reference to function template instantiation 'T maximizeProfit<int>(int,int,T [],T [],int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Assignmnet1.vcxproj -> D:\BS(CS)\3rd Semester\Data Structure Lab\Assignmnet 1\Assignmnet1\x64\Release\Assignmnet1.exe

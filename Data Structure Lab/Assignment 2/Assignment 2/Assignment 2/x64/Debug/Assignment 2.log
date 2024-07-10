@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignment 2\Assignment 2\Assignment 2\test.cpp(10,5): error C2065: 'Transport_Layer_optimization': undeclared identifier
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignment 2\Assignment 2\Assignment 2\test.cpp(10,34): error C2146: syntax error: missing ';' before identifier 'obj'
+D:\BS(CS)\3rd Semester\Data Structure Lab\Assignment 2\Assignment 2\Assignment 2\test.cpp(10,34): error C2065: 'obj': undeclared identifier

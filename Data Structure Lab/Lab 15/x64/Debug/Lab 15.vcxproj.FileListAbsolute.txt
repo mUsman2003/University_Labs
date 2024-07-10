@@ -1,0 +1,4 @@
+D:\BS(CS)\3rd Semester\Data Structure Lab\Lab 15\x64\Debug\Lab 15.vcxproj.CopyComplete
+D:\BS(CS)\3rd Semester\Data Structure Lab\Lab 15\x64\Debug\Lab 15.exe
+D:\BS(CS)\3rd Semester\Data Structure Lab\Lab 15\x64\Debug\gtest.pdb
+D:\BS(CS)\3rd Semester\Data Structure Lab\Lab 15\x64\Debug\gtest_main.pdb

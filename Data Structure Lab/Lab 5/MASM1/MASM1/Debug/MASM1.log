@@ -1,0 +1,3 @@
+﻿  Assembling tempelate.asm...
+tempelate.asm(10): error A2071: initializer magnitude too large for specified size
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\tempelate.obj" /W3 /errorReport:prompt  /Tatempelate.asm" exited with code 1.
