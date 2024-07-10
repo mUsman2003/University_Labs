@@ -1,0 +1,3 @@
+sudo docker pull usman2003/lab3
+sudo docker run -it usman2003/lab3
+ 
